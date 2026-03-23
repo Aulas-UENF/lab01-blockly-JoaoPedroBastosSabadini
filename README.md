@@ -67,6 +67,7 @@ Dessa forma, distribuí os quatro hexágonos de forma simétrica em um formato s
 **A)** Seis repetições, 60°
 
 **B)** 90° à direita
-  
-**C)** Eu computei que a forma completa teria que conter 360°, então dividi esse valor pela quantidade de lados e consegui o resultado de 60°
+
+**C** Eu computei que a forma completa teria que conter 360°, então dividi esse valor pela quantidade de lados e consegui o resultado de 60°
+
 ---
